@@ -1,1 +1,1 @@
-# LICT-Project-Zulhas
+# Zulhas-LICT-Project
